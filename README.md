@@ -2,10 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+https://user-images.githubusercontent.com/10669515/166838229-3e706606-a06d-4edd-bcdc-5518e3e21498.mp4
 
-
-<video src="https://github.com/murderuo/React-Infinite-Scrool-with-unsplashApp/blob/main/img/20220505-012210-247.mp4"  width="600" height="400">
-</video> 
 
 ## Available Scripts
 
