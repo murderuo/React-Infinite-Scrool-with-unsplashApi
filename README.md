@@ -9,6 +9,8 @@ https://user-images.githubusercontent.com/10669515/166838229-3e706606-a06d-4edd-
 
 In the project directory, you can run:
 
+### `npm install`
+
 ### `npm start`
 
 Runs the app in the development mode.\
